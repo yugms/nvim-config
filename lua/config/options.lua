@@ -8,11 +8,11 @@ vim.o.smartindent = true
 vim.o.number = true
 vim.o.relativenumber = true
 vim.o.cursorline = true
+vim.opt.colorcolumn = "80"
 
 -- wrap
 vim.o.wrap = false
 vim.o.linebreak = true
-vim.o.sidescrolloff = 8
 vim.o.whichwrap = 'bs<>[]hl'
 
 -- file/window stuff

@@ -26,7 +26,7 @@ vim.o.termguicolors = true
 vim.opt.splitright = true
 vim.opt.splitbelow = true
 
-vim.o.clipboard = "unnamedplus"
+-- vim.o.clipboard = "unnamedplus"
 vim.o.autoindent = true
 vim.o.updatetime = 250
 vim.o.timeoutlen = 750
